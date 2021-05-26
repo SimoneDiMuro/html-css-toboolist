@@ -6,11 +6,13 @@
 
 body{
     background-color: lightgray;
+    font-family: Arial, Verdana, sans-serif;
 }
 
 header{
     background-color: white;
     height: 80px;
+    margin-bottom: 40px;
 }
 
 h1{
@@ -22,4 +24,43 @@ img {
     margin: 5px;
     height: 70px;
     vertical-align: middle;
+}
+
+main{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+div{
+    margin-left: 50px;
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.button1{
+    background-color: rgb(24, 162, 207);
+    color: white;
+    border: 0;
+    
+}
+
+.button2{
+    background-color: white;
+    color: lightgray;
+    border-color: lightgray;
+    border-style:solid ;
+}
+
+hr{
+    color: lightgray;
+    height: 5px;
+    background-color: lightgray;
+    border-style: none;
 }
