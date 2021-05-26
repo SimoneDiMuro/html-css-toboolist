@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+header{
+    background-color: white;
+    height: 80px;
+}
+
+h1{
+    display: inline;
+}
+
+img {
+    text-align: center;
+}
