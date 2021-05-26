@@ -15,8 +15,11 @@ header{
 
 h1{
     display: inline;
+    vertical-align: middle;
 }
 
 img {
-    text-align: center;
+    margin: 5px;
+    height: 70px;
+    vertical-align: middle;
 }
